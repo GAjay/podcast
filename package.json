@@ -1,7 +1,7 @@
 {
   "name": "podcast-app",
   "version": "1.0.0",
-  "description": "list of all podcast of tigerhall",
+  "description": "list of all podcast",
   "main": "index.js",
   "author": "ajay",
   "license": "MIT",
@@ -18,6 +18,10 @@
     "build": "yarn tscheck && vite build"
   },
   "dependencies": {
+    "@chakra-ui/react": "^2.7.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "framer-motion": "^10.12.16",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
