@@ -1,3 +1,3 @@
 import React from "react";
 
-export const App: React.FC = () => <h1>Hello Reacddt</h1>;
+export const App: React.FC = () => <h1>Hello Reacddts</h1>;
